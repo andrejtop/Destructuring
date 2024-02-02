@@ -1,4 +1,4 @@
-???
+[![Build status](https://ci.appveyor.com/api/projects/status/xen60cj2pi7it5o0?svg=true)](https://ci.appveyor.com/project/andrejtop/destructuring)
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
